@@ -13,5 +13,7 @@ train_df.head(10)
 
 This outputs the dataset sample as this:
 
+changeee
+
 
 We can see there are different types of data in this dataset.
