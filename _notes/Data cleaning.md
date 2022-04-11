@@ -7,11 +7,12 @@ First we take a look into the data. The best way to get to know what a dataset i
 
 To do this, we can show the first 10 rows using the `head()` function:
 
-```
+```python
 train_df.head(10)
 ```
 
 This outputs the dataset sample as this:
 
+<img src="/assets/describe_head_train.jpg"/>
 
 We can see there are different types of data in this dataset.
