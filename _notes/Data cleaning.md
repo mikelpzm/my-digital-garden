@@ -13,6 +13,9 @@ train_df.head(10)
 
 This outputs the dataset sample as this:
 
-<img src="/assets/describe_head_train.jpg"/>
+<img src="../assets/describe_head_train.jpg"/>
 
 We can see there are different types of data in this dataset.
+
+<img src="../assets/image.jpg"/>
+
